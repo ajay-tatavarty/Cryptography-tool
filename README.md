@@ -12,17 +12,7 @@ A web-based application for encrypting and decrypting text using various cryptog
 - **UI/UX**: Responsive tabbed interface, dark theme, clipboard integration, and mobile support.
 - **Additional Tools**: Frequency analysis, real-time feedback, and browser compatibility.
 
-## Demo
 
-Try the tool live at [your-hosted-link](#) (replace with your hosted URL, e.g., GitHub Pages).
 
-## Screenshots
 
-![Caesar Cipher Tab](screenshots/caesar.png)
-![Vigenère Cipher Tab](screenshots/vigenere.png)
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/advanced-cryptography-tool.git
