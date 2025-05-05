@@ -1,5 +1,4 @@
 # Cryptography-tool
-# Advanced Cryptography Tool
 
 A web-based application for encrypting and decrypting text using various cryptographic techniques, including Caesar Cipher, Vigenère Cipher, brute-force analysis, and file encryption. Built with HTML, CSS, and JavaScript, it features a responsive dark-mode UI and advanced security features.
 
